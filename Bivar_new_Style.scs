@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColorScheme>
+  <FileHeader>
+    <FileType>678370</FileType>
+    <Version>0</Version>
+    <Name>Bivar_TempPrec</Name>
+    <Author>AlexM</Author>
+    <Description>Bivariate_Map_TempPrecip</Description>
+    <Favorites>false</Favorites>
+    <ColorSystem>1</ColorSystem>
+    <IntervalColorBuildMethod>1</IntervalColorBuildMethod>
+    <KeyColorCount>16</KeyColorCount>
+    <IntervalColorCount>0</IntervalColorCount>
+  </FileHeader>
+  <DataBlock>
+    <KeyColor1>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>211</Red>
+      <Green>211</Green>
+      <Blue>211</Blue>
+    </KeyColor1>
+    <KeyColor2>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>156</Red>
+      <Green>196</Green>
+      <Blue>210</Blue>
+    </KeyColor2>
+    <KeyColor3>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>95</Red>
+      <Green>178</Green>
+      <Blue>209</Blue>
+    </KeyColor3>
+    <KeyColor4>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>21</Red>
+      <Green>157</Green>
+      <Blue>208</Blue>
+    </KeyColor4>
+    <KeyColor5>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>214</Red>
+      <Green>179</Green>
+      <Blue>160</Blue>
+    </KeyColor5>
+    <KeyColor6>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>158</Red>
+      <Green>166</Green>
+      <Blue>159</Blue>
+    </KeyColor6>
+    <KeyColor7>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>96</Red>
+      <Green>151</Green>
+      <Blue>159</Blue>
+    </KeyColor7>
+    <KeyColor8>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>21</Red>
+      <Green>134</Green>
+      <Blue>158</Blue>
+    </KeyColor8>
+    <KeyColor9>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>217</Red>
+      <Green>146</Green>
+      <Blue>106</Blue>
+    </KeyColor9>
+    <KeyColor10>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>160</Red>
+      <Green>135</Green>
+      <Blue>105</Blue>
+    </KeyColor10>
+    <KeyColor11>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>97</Red>
+      <Green>123</Green>
+      <Blue>105</Blue>
+    </KeyColor11>
+    <KeyColor12>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>23</Red>
+      <Green>109</Green>
+      <Blue>104</Blue>
+    </KeyColor12>
+    <KeyColor13>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>221</Red>
+      <Green>106</Green>
+      <Blue>41</Blue>
+    </KeyColor13>
+    <KeyColor14>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>163</Red>
+      <Green>98</Green>
+      <Blue>41</Blue>
+    </KeyColor14>
+    <KeyColor15>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>99</Red>
+      <Green>89</Green>
+      <Blue>41</Blue>
+    </KeyColor15>
+    <KeyColor16>
+      <Name />
+      <ColorSystem>1</ColorSystem>
+      <Red>23</Red>
+      <Green>79</Green>
+      <Blue>40</Blue>
+    </KeyColor16>
+  </DataBlock>
+</ColorScheme>
