@@ -3,6 +3,9 @@
 ## 🌍 Project Overview
 
 This repository contains the geospatial data and analysis for bivariate mapping of Colombia's temperature and precipitation trends from 1990 to 2023. The project utilizes Level 3 satellite-derived datasets (Terraclimate and CHIRPS) alongside official gauge station data from IDEAM to perform a comprehensive spatial analysis. This project won the **🏅 SuperMap 2024 Analysis Category Award**.
+## Final Map Contest Winner
+
+![Main Map Result, with Bivariate Classification, Data aggregation and Diagrams](FinalMap_ContestWinner.png)
 
 ## 📊 Data Sources
 
