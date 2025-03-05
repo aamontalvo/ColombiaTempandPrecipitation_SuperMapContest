@@ -25,13 +25,7 @@ This project includes two Jupyter Notebooks for data processing:
 
 
 
-## ⚙️ Installation & Requirements
 
-To run the analysis, install the required Python libraries using:
-
-```bash
-pip install -r requirements.txt
-```
 
 ### 🛠️ Required Python Packages:
 
