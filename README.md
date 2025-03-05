@@ -18,12 +18,8 @@ The data used in this project comes from multiple sources:
 
 This project includes two Jupyter Notebooks for data processing:
 
-1. 📑 **Supermap_GaugeStationAnalysis.ipynb** – Cleans and integrates IDEAM station data with macroclimatic indices.
-2. 🛰️ **Supermap_BivariateClass_Terraclimate_CHIRPS.ipynb** – Downloads, processes, and visualizes raster data from Terraclimate and CHIRPS using Google Earth Engine.
-
-## 📁 Repository Structure
-
-
+1. 📑 **Data Processing/Supermap_GaugeStationAnalysis.ipynb** – Cleans and integrates IDEAM station data with macroclimatic indices.
+2. 🛰️ **Data Processing/Supermap_BivariateClass_Terraclimate_CHIRPS.ipynb** – Downloads, processes, and visualizes raster data from Terraclimate and CHIRPS using Google Earth Engine.
 
 
 
@@ -34,6 +30,9 @@ This project includes two Jupyter Notebooks for data processing:
 - `geemap`
 - `pandas`
 - `numpy`
+- `seaborn`
+- `duckdb`
+- `matplotlib`
 
 ## 🚀 Usage
 
@@ -43,8 +42,8 @@ Run the Jupyter notebooks in the `notebooks/` directory to reproduce the analysi
 
 For additional details, refer to:
 
-- 📄 `docs/Data_Description.pdf`
-- 📄 `docs/Appli_AlexanderMontalvo_Report.pdf`
+- 📄 `Data_Description.pdf`
+- 📄 `Appli_AlexanderMontalvo_Report.pdf`
 
 ## 📜 License
 
